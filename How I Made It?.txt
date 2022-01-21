@@ -1,0 +1,2 @@
+I would like to thank freecodecamp for there tutorial on pygame by Attrey Bhatt it helped me understand and create this game.
+https://www.youtube.com/watch?v=FfWpgLFMI7w&t=4178s
